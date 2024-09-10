@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Medicine App</string>
+    <string name="find_medicine">Find Medicine</string>
+    <string name="brands">No Medicine selected</string>
+    <string-array name="Medicine_Type">
+        <item>Morning</item>
+        <item>Night</item>
+        <item>Afternoon</item>
+
+
+    </string-array>
+</resources>
